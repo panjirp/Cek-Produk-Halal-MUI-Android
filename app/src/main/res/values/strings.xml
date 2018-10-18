@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Halal MUI</string>
+    <string name="cari">Cari Berdasarkan..</string>
+    <string name="cari2">---</string>
+    <string name="inputcari">Masukkan Keyword Pencarian</string>
+    <string name="buttoncari">Cari</string>
+    <string name="semua">atau lihat</string>
+    <string name="semua2">semua kategori</string>
+    <string-array name="kategori">
+        <item>Nama Produk</item>
+        <item>Nama Produsen</item>
+        <item>No. Sertifikat</item>
+    </string-array>
+</resources>
